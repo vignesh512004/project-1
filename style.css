@@ -1,0 +1,26 @@
+Container { height: 100vh;
+    background-color: #274472; /* ” #274472” is an Colour */
+    text-align: center; color: white;
+    font-family: sans-serif; /* “ sans-serif” is an Font Name*/
+    }
+    /* CSS For Heading */
+    .Heading {
+    font-size: xx-large; }
+    .Textbox { width: 300px; height: 30px;
+        border-radius: 10px; background-color: white; color: black;
+        font-family: Arial; /* “ Arial” is an Font Name*/
+        font-size: large;
+        }
+        /* CSS For ADD Button */
+        .Btn {
+        padding: 20px;
+        background-color: #427497; /* ” #427497” is an Colour */
+        border-radius: 10px; color: white;
+        }
+        /* CSS For List of Tasks */
+        .ToBeDone { width: 400px; margin: auto;
+        background-color: #427497; /* ” #427497” is an Colour */
+        border-radius: 10px; padding: 15px 0px 15px 30px; display: none;
+        align-content: center; flex-direction: column; text-align: left;
+        font-size: larger;
+        }
